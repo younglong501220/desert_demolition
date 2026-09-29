@@ -1,0 +1,6 @@
+{
+  "name": "Desert Demolition: 防爆沙漠",
+  "description": "A classic 16-bit arcade homage to Desert Demolition featuring Wile E. Coyote & Road Runner with ACME gadgets, slapstick physics, and synthesized sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
